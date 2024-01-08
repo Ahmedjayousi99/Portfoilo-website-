@@ -169,6 +169,9 @@ section {
   gap: 5rem;
   height: 80vh;
 }
+img{
+  border-radius: 50%;
+}
 
 .section__pic-container {
   display: flex;
