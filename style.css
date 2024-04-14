@@ -297,6 +297,9 @@ img{
   bottom: 2.5rem;
 }
 
+
+
+
 .details-container {
   padding: 1.5rem;
   flex: 1;
@@ -305,6 +308,16 @@ img{
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
   text-align: center;
+  button {
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    text-decoration: underline;
+    color: blue; /* Change the color to your preference */
+}
+
 }
 
 .section-container {
